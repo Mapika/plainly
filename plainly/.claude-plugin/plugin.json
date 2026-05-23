@@ -1,0 +1,13 @@
+{
+  "name": "plainly",
+  "version": "0.5.0",
+  "description": "Catch and fix LLM 'style smells' in non-fiction prose — quality signals, not an AI-detection verdict.",
+  "author": {
+    "name": "Mapika",
+    "email": "marosimark251@gmail.com"
+  },
+  "homepage": "https://github.com/Mapika/plainly",
+  "repository": "https://github.com/Mapika/plainly",
+  "license": "MIT",
+  "keywords": ["writing", "prose", "linter", "ai-detection", "editing", "style"]
+}

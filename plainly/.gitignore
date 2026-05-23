@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# one-shot data source for build_concreteness.py (not redistributed)
+scripts/Concreteness_ratings_Brysbaert_et_al_BRM.txt

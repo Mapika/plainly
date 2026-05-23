@@ -1,0 +1,14 @@
+{
+  "name": "plainly",
+  "owner": {
+    "name": "Mapika",
+    "email": "marosimark251@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "plainly",
+      "source": "./plainly",
+      "description": "Catch and fix LLM 'style smells' in non-fiction prose — quality signals, not an AI-detection verdict."
+    }
+  ]
+}

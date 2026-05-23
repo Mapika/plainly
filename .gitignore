@@ -1,0 +1,18 @@
+# secrets — never commit API keys
+eval/.secrets/
+*.key
+.env
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# third-party corpus texts (refetch via build_corpus.py; not redistributed)
+eval/data/corpus/ai/a_hc3_*
+eval/data/corpus/ai/a_sciabs_*
+eval/data/corpus/human/h_hc3_*
+eval/data/corpus/human/h_sciabs_*
+
+# internal planning docs — kept local, not published
+docs/superpowers/

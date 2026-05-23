@@ -1,0 +1,40 @@
+# plainly default config. Copy into your repo root and edit to override.
+
+[severity]
+# Minimum cluster weight (per paragraph) to escalate to each tier.
+critical = 6
+moderate = 3
+
+[rules]
+# Low-confidence stylistic rules: off by default.
+em_dash = false
+
+[burstiness]
+# Flag a document whose coefficient of variation falls below this.
+min_cv = 0.35
+
+[concreteness]
+# Flag a paragraph whose mean concreteness falls below this (1=abstract,5=concrete).
+min_mean = 2.6
+
+[genre]
+# Default genre profile; "prose" | "docs" | "marketing".
+default = "prose"
+
+[allow]
+# Terms never flagged (e.g. a product literally named "Tapestry").
+terms = []
+
+[hook]
+# Auto-flag AI-style prose right after Claude writes/edits a .md/.txt/.rst file
+# (PostToolUse hook). Set enabled = false to turn the automatic check off.
+enabled = true
+# Only speak up when a file's style-smell density exceeds this.
+density = 6
+
+[deslop]
+# After the deslopper edits, run the blind prose-judge pass. Set false to skip it.
+judge = true
+# A rewrite's burstiness cv must stay >= the original's * this, or the edit is
+# treated as flattening the sentence rhythm and that paragraph is reverted.
+burstiness_tolerance = 0.9
