@@ -1,0 +1,5 @@
+CRISPR is, at bottom, a pair of molecular scissors borrowed from bacteria. Bacteria have been quietly using it for millions of years to fend off viruses: when a virus attacks and the bacterium survives, it stores a snippet of the invader's genetic code in its own DNA, like a mugshot in a filing cabinet. The next time that virus shows up, the bacterium reads the mugshot, finds the matching DNA, and chops it to pieces.
+
+Scientists figured out, around a decade ago, that this same machinery could be aimed at more or less any gene we like. The trick has two parts. First, there is a guide—a short strand of RNA designed to match the bit of DNA you want to edit. Second, there is the cutting enzyme, usually one called Cas9, which rides along with the guide and snips the DNA wherever the guide tells it to.
+
+Once the cut is made, the cell scrambles to repair itself, and that is the moment you slip in your changes—disabling a faulty gene, say, or pasting in a corrected version. It is crude compared with what nature does, but it is cheap, fast, and astonishingly precise, which is why biology has not been the same since.

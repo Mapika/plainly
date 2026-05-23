@@ -1,0 +1,17 @@
+## Safeguarding Your Memories: Backing Up Your Photos
+
+Losing photos can be heartbreaking. A solid backup strategy is worth the small effort it takes to set up.
+
+**1. Choose Your Backup Methods:** Follow the 3-2-1 rule: 3 copies of your data, on 2 different media, with 1 copy offsite.
+
+*   **Cloud Storage:** Google Photos, iCloud, Dropbox, and Amazon Photos can back up your photos automatically. Install the app on your phone and computer, then turn on automatic backups.
+*   **External Hard Drive:** Connect a physical drive to your computer, copy your photo folders over, and store it somewhere safe.
+*   **NAS (Network Attached Storage):** A central storage device on your home network that all your devices can access.
+
+**2. Organize Your Photos:** A clear folder structure—by year or event, for example—makes finding specific photos much faster later.
+
+**3. Back Up Regularly:** Set cloud backups to run automatically. For your external hard drive, a monthly manual copy is enough for most people.
+
+**4. Verify Your Backups:** Every few months, restore a handful of photos to confirm the backup actually worked. A backup you've never tested is a backup you can't trust.
+
+If your device fails tomorrow, these steps mean your photos survive it.

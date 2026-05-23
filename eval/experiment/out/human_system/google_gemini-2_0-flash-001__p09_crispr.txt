@@ -1,0 +1,9 @@
+Imagine genetic code as a book. CRISPR is like a molecular word processor that scientists can use to find specific sequences and rewrite them.
+
+The acronym stands for Clustered Regularly Interspaced Short Palindromic Repeats. That describes a natural defense mechanism in bacteria. Scientists adapted this system to edit DNA in other organisms, including humans.
+
+Here's how it works. First, researchers design a "guide RNA," a short sequence that matches the DNA they want to change. This guide RNA attaches to an enzyme called Cas9, which acts like molecular scissors. The guide RNA leads Cas9 to the precise location in the genome. Cas9 then cuts the DNA at that spot.
+
+Once the DNA is cut, the cell's natural repair mechanisms kick in. Scientists can exploit this in two ways. They can let the cell repair the break on its own, which often disrupts the gene. Or, they can provide a new DNA template. The cell then uses this template to repair the break, effectively inserting the desired sequence.
+
+CRISPR is more precise, faster, and cheaper than previous gene-editing tools. It holds immense potential for treating genetic diseases, but also raises ethical concerns about altering the human genome.

@@ -1,0 +1,7 @@
+CRISPR gene editing is a powerful biotechnology tool that lets scientists make precise changes to DNA, the genetic instructions found in living cells. The name CRISPR comes from a natural defense system used by bacteria to recognize and cut the DNA of invading viruses. Researchers adapted this system into a method for editing genes in plants, animals, and human cells.
+
+The most common CRISPR system uses two main parts: a guide RNA and a cutting enzyme, often called Cas9. The guide RNA is designed to match a specific DNA sequence in the genome. It acts like a GPS, bringing the Cas9 enzyme to the exact location scientists want to edit. Once there, Cas9 cuts both strands of the DNA.
+
+After the cut is made, the cell tries to repair the break. Scientists can take advantage of this repair process in different ways. Sometimes the repair introduces small mistakes, which can “turn off” a gene. In other cases, researchers provide a new DNA template so the cell can replace or correct the original sequence.
+
+CRISPR is used in research, agriculture, and medicine. It may help treat genetic diseases, create disease-resistant crops, and study how genes work. However, because it can alter living organisms, especially human embryos, it raises important ethical and safety questions.

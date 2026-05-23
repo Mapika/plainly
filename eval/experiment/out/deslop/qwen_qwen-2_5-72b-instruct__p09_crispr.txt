@@ -1,0 +1,7 @@
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a gene-editing technology that allows scientists to make precise changes to DNA sequences within living organisms. It has shown promise for treating genetic diseases, improving crop yields, and addressing climate change.
+
+The technology is adapted from a bacterial defense mechanism. In nature, bacteria use CRISPR systems to recognize and destroy invading viruses by cutting their DNA, and scientists have repurposed this mechanism for genetic engineering.
+
+The CRISPR system has two main components: a guide RNA and a Cas9 enzyme. The guide RNA is designed to match a specific DNA sequence in the target organism's genome. When it finds that sequence, it binds to the DNA and the Cas9 enzyme cuts it at the targeted location — functioning, in effect, as molecular scissors. The cell's natural repair mechanisms then activate, giving scientists the opportunity to introduce new genetic material or remove specific sequences.
+
+This process can correct genetic mutations, delete genes, or insert new ones. Its precision and relative simplicity have made it one of the more consequential developments in modern biotechnology, with applications spanning medicine and agriculture.

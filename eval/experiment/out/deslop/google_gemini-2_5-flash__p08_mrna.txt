@@ -1,0 +1,5 @@
+mRNA vaccines work differently from traditional vaccines, which introduce a weakened or inactive pathogen. Instead, mRNA vaccines deliver a genetic blueprint to your cells — instructions for producing a specific piece of a pathogen, typically the spike protein of a virus like SARS-CoV-2.
+
+Your cells read those instructions and manufacture the spike protein. The protein itself is harmless and cannot cause disease. Your immune system recognizes it as foreign, mounts a response, and generates antibodies and T-cells. If you later encounter the actual virus, your immune system is already prepared to neutralize it before you get sick. Meanwhile, the mRNA degrades quickly after delivery and leaves no lasting trace in the body.
+
+Because the instructions can be designed and synthesized rapidly once a pathogen's genetic sequence is known, mRNA vaccines can be developed and manufactured far faster than conventional ones — a practical advantage when a new infectious disease emerges.

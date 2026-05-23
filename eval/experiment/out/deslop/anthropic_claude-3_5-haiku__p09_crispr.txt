@@ -1,0 +1,7 @@
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a gene-editing technology that lets scientists make precise changes to DNA. Bacteria use it naturally to defend against viruses, and researchers have since adapted it into a tool for genetic modification.
+
+The system has two core components: a guide RNA and a DNA-cutting enzyme called Cas9. The guide RNA is designed to match a specific DNA sequence, directing Cas9 to the exact location in the genome where a change is needed. Once there, Cas9 cuts the DNA strand at that point.
+
+The cell then tries to repair the break, and this is where editing happens. Left alone, the repair process tends to disable the targeted gene. Alternatively, scientists can supply a new DNA template, which the cell uses as a blueprint during repair — effectively inserting a chosen genetic sequence.
+
+The applications are wide-ranging. In medicine, CRISPR can correct mutations responsible for inherited diseases and help researchers understand how individual genes function. In agriculture, it can produce crops with better disease resistance or yield. Clinical trials are already underway for conditions like sickle cell disease, and the technology continues to open new possibilities across biology and medicine.

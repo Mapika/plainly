@@ -1,0 +1,5 @@
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a gene editing technology that lets scientists modify DNA with precision. Think of it as molecular scissors that can cut out, replace, or insert specific genetic sequences.
+
+It works through a guide RNA molecule designed to match a target DNA sequence. This guide RNA leads an enzyme called Cas9 to the exact location on the DNA, where it makes a precise cut. The cell then attempts to repair the break, and during that process scientists can disable a gene, insert new genetic material, or correct a faulty sequence.
+
+This level of control makes CRISPR a powerful tool for studying how genes function, fixing genetic defects, and developing treatments for a wide range of diseases.

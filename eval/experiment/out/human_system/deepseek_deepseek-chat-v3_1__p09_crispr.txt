@@ -1,0 +1,5 @@
+CRISPR is a precise gene-editing tool that allows scientists to alter DNA sequences. It works like a pair of molecular scissors guided by a GPS. The system has two main parts: a guide RNA that finds the specific gene to be edited, and an enzyme called Cas9 that cuts the DNA at that location.
+
+Once the DNA is cut, the cell’s natural repair mechanisms kick in. Scientists can then insert a new genetic sequence or disable a faulty gene. This makes it possible to correct mutations, study gene function, or even engineer traits in plants and animals.
+
+Originally discovered as a bacterial immune system, CRISPR has been adapted for use in nearly any organism. Its precision, speed, and relative affordability have revolutionized genetic research. While it holds promise for treating genetic diseases, its use also raises important ethical questions about permanent changes to the human genome.

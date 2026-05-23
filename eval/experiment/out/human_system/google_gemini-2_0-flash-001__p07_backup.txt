@@ -1,0 +1,7 @@
+Your photos are precious. Losing them to a dead phone or spilled coffee would be awful. Backing them up isn't hard, and it's worth the effort.
+
+First, decide where your backups will live. A cloud service like Google Photos, iCloud, or Dropbox is convenient. They automatically sync photos from your phone or computer. But these services cost money for larger storage amounts. An external hard drive is a one-time cost. You plug it into your computer and copy your photos over.
+
+Next, choose your method. For cloud services, install the app on your devices and turn on automatic syncing. For a hard drive, create a folder structure. Something like "Photos > Year > Month" works well. Then, regularly drag and drop new photos into the correct folders.
+
+Finally, consider the "3-2-1" rule. Keep three copies of your photos, on two different types of media, with one copy offsite. This might mean your phone, a hard drive, and Google Photos. It sounds complicated, but it's the safest way to ensure your memories survive. Don't wait until it's too late. Back up those photos today.

@@ -1,0 +1,9 @@
+mRNA vaccines give your cells a short-lived set of instructions.
+
+The “mRNA” stands for messenger RNA, a molecule your own cells already use every day to make proteins. In these vaccines, the mRNA carries the recipe for one harmless piece of a virus, such as the spike protein from SARS-CoV-2. The vaccine does not contain the whole virus, so it cannot cause the disease it is meant to prevent.
+
+Because mRNA is fragile, it is packaged in tiny fatty bubbles called lipid nanoparticles. After injection, some of your cells take up these particles. The mRNA stays in the cell’s outer workspace, the cytoplasm; it does not enter the nucleus, where your DNA is kept. Ribosomes read the mRNA and make the viral protein piece.
+
+Your immune system then notices that protein as foreign. Immune cells show fragments of it to other immune cells, which helps train the body to make antibodies and T cells targeted to that virus. Later, if the real virus appears, the immune system can respond faster and more strongly.
+
+The mRNA itself is temporary. Cells break it down within hours to days, just as they do with ordinary mRNA. What lasts is the immune memory built from that brief encounter.

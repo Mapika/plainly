@@ -1,0 +1,7 @@
+CRISPR is a gene-editing tool that lets scientists make precise changes to DNA in living cells. The name comes from a defense system bacteria use to recognize and cut the DNA of invading viruses. Researchers adapted this system to edit genes in plants, animals, and human cells.
+
+The most common version uses two components: a guide RNA and a cutting enzyme called Cas9. The guide RNA is designed to match a specific DNA sequence, directing Cas9 to the right location in the genome. Once there, Cas9 cuts both strands of the DNA.
+
+The cell then attempts to repair the break, and scientists can exploit this process in different ways. Sometimes the repair introduces small errors that effectively disable a gene. Other times, researchers supply a new DNA template so the cell incorporates a corrected sequence instead.
+
+CRISPR has applications in research, agriculture, and medicine. It could help treat genetic diseases and produce crops resistant to disease, and it gives scientists a way to study what individual genes actually do. Because it can alter living organisms—human embryos included—it also raises serious ethical and safety questions that remain unresolved.

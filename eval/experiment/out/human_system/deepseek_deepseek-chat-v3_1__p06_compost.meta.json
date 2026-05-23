@@ -1,0 +1,29 @@
+{
+  "model": "deepseek/deepseek-chat-v3.1",
+  "prompt_id": "p06_compost",
+  "condition": "human_system",
+  "usage": {
+    "prompt_tokens": 167,
+    "completion_tokens": 278,
+    "total_tokens": 445,
+    "cost": 0.0003142,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0003142,
+      "upstream_inference_prompt_cost": 5.01e-05,
+      "upstream_inference_completions_cost": 0.0002641
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "raw_model": "deepseek/deepseek-chat-v3.1"
+}

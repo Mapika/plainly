@@ -1,0 +1,13 @@
+Of course. Here is an explainer of mRNA vaccines for an educated general audience.
+
+***
+
+### How mRNA Vaccines Work: A Cellular Instruction Manual
+
+Unlike traditional vaccines that introduce a weakened virus, mRNA vaccines use a clever piece of genetic code called messenger RNA (mRNA). Think of it as a temporary instruction manual for your cells.
+
+The vaccine delivers a snippet of mRNA that teaches your cells how to make a harmless piece of the virus—often the distinctive “spike” protein found on the surface of the coronavirus. Your body’s own cellular machinery reads these instructions, produces the protein, and then discards the mRNA.
+
+This viral protein, now displayed on the cell's surface, is recognized by your immune system as a foreign invader. Your body mounts a robust defense, creating specialized antibodies and memory cells.
+
+The true brilliance lies in this training exercise. If you are later exposed to the actual virus, your immune system immediately recognizes the spike protein and is primed to fight it off, preventing serious illness. It’s a sophisticated way to harness your body’s natural defenses without ever exposing you to the live virus that causes disease.

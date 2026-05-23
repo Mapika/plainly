@@ -1,0 +1,9 @@
+**CRISPR Gene Editing Explained**
+
+CRISPR is a gene-editing technology that allows scientists to alter an organism's DNA with precision. Often described as "genetic scissors," it has potential applications in correcting genetic defects, treating diseases, and improving crops.
+
+The technology is borrowed from bacteria. When a virus attacks, bacteria capture snippets of its DNA and store them in their own genome in a repetitive pattern — hence the name **CRISPR** (Clustered Regularly Interspaced Short Palindromic Repeats). This acts as a genetic "most wanted" poster.
+
+If the same virus strikes again, the bacteria deploy an enzyme called **Cas9**. They create an RNA copy of the stored viral sequence — a guide RNA — that steers Cas9 directly to the matching DNA. Cas9 then cuts it, disabling the virus.
+
+Scientists have co-opted this system for their own purposes. By designing a synthetic guide RNA, they can direct Cas9 to any target gene in any organism's genome. Once Cas9 makes its cut, the cell's natural repair machinery takes over. At that moment, scientists can either disable a harmful gene or slip in a healthy DNA sequence, rewriting the genetic code at a specific location.

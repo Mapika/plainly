@@ -1,0 +1,7 @@
+mRNA vaccines, like those developed for COVID-19, work by teaching our cells to make a piece of a virus. This piece, usually a harmless fragment, triggers an immune response. For the coronavirus, the fragment is the spike protein, which the virus uses to enter cells.
+
+Here’s how it works: The vaccine injects a small piece of genetic material called messenger RNA, or mRNA, into your arm muscle. This mRNA carries instructions for making the spike protein. Once inside your cells, the mRNA is read by the cell’s machinery, which then produces the spike protein. The cell displays these proteins on its surface, and your immune system recognizes them as foreign and mounts a response.
+
+Your body creates antibodies and memory cells specifically tailored to the spike protein. If you later encounter the actual virus, your immune system is primed and ready to fight it off, preventing illness or reducing its severity. The mRNA itself degrades quickly, leaving no trace in your body.
+
+This approach is both fast and flexible, allowing scientists to tweak the vaccine quickly if the virus mutates. It’s a breakthrough in vaccine technology that offers hope for rapid responses to future outbreaks.

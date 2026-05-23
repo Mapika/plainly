@@ -1,0 +1,7 @@
+Backing up your photos ensures they’re safe from loss or damage. Start by organizing your photos. Create a folder structure on your computer that makes sense, like by year and event. This helps you keep track of what you’re backing up.
+
+Next, choose a reliable backup method. External hard drives are a popular choice. Plug one into your computer, and copy your photo folders over. Make sure to check that the files have transferred correctly. Another option is cloud storage. Services like Google Photos, iCloud, or Dropbox offer automatic backups. Just set up the app on your devices, and your photos will sync automatically.
+
+For an extra layer of security, consider a two-step backup. Use both an external drive and a cloud service. This way, even if one fails, you have a backup of your backup.
+
+Lastly, test your backup. Try to restore a few photos to a new folder or device. If they come back clearly, you know your backup works. Make backing up a regular habit, perhaps once a month, to keep your memories safe and sound.

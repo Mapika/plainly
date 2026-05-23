@@ -1,0 +1,5 @@
+CRISPR is a tool for precisely editing DNA. Think of it like a pair of molecular scissors, but instead of cutting paper, it snips out specific sections of a gene. This technology was adapted from a natural defense system found in bacteria. These bacteria use CRISPR to recognize and destroy the DNA of invading viruses.
+
+Here's how it works: Scientists create a "guide RNA" molecule. This guide RNA is designed to match a specific sequence of DNA in the target gene – the part they want to change. This guide RNA then teams up with an enzyme called Cas9. The Cas9 enzyme is the "scissors" part of the operation.
+
+Together, the guide RNA and Cas9 complex travel along the DNA strand until the guide RNA finds and binds to its matching target sequence. Once it locks on, the Cas9 enzyme makes a precise cut in both strands of the DNA. After the cut, the cell's natural repair mechanisms kick in. Scientists can then introduce a new, desired piece of DNA at the cut site, effectively replacing the original sequence. This allows them to correct faulty genes, insert new ones, or even turn genes off entirely.

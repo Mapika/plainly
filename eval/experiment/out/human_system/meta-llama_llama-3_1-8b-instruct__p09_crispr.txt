@@ -1,0 +1,7 @@
+CRISPR, or Clustered Regularly Interspaced Short Palindromic Repeats, is a gene editing tool that has revolutionized the field of genetics. It's based on a natural defense mechanism used by bacteria to fight off viral infections.
+
+Imagine a bacterial cell being invaded by a virus. The bacteria will capture a piece of the virus's genetic material and store it in its own genome, essentially creating a 'blueprint' of the invader. When the virus attacks again, the bacteria use this stored information to locate and cut the virus's genetic material, preventing it from replicating.
+
+Scientists have repurposed this process to edit genes in living organisms. They introduce a small RNA molecule, called a guide RNA, that seeks out a specific sequence of DNA. This guide RNA is programmed to match the sequence of a particular gene, allowing the researchers to target it for modification.
+
+The CRISPR system consists of an enzyme called Cas9, which acts as a pair of molecular scissors. When the guide RNA finds its target, the Cas9 enzyme cuts the DNA, creating a double-stranded break. The cell's natural repair machinery then kicks in, and researchers can provide a template for the cell to repair the break with the desired changes. This precision allows scientists to make specific edits to genes, paving the way for potential treatments for genetic diseases and more.

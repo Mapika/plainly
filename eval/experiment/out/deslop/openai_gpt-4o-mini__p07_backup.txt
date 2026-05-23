@@ -1,0 +1,15 @@
+Losing photos to a crashed hard drive or accidental deletion is frustrating and often permanent, so having a backup system matters. Here's how to set one up:
+
+1. **Choose Backup Methods**: Use both physical and cloud storage. External hard drives and USB flash drives work well for local copies, while services like Google Photos, Dropbox, or iCloud keep your images accessible from anywhere.
+
+2. **Organize First**: Sort your photos into folders by date, event, or subject before backing them up. Finding a specific image later becomes much easier.
+
+3. **Back Up on a Schedule**: Decide on a frequency—daily, weekly, or monthly—and stick to it. New photos accumulate quickly and are easy to forget.
+
+4. **Enable Automatic Uploads**: Most cloud services can back up photos from your phone or computer in the background. Turn this on and the work happens without you thinking about it.
+
+5. **Verify Your Backups**: Occasionally open your backup drive or cloud account and confirm recent photos are actually there. A backup you've never tested is one you can't trust.
+
+6. **Keep Multiple Copies**: Store at least two backups in different locations—one on a physical drive, one in the cloud. If one fails, the other covers you.
+
+A little setup now means you won't spend time later wishing you'd done it sooner.

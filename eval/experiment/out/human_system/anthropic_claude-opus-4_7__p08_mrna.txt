@@ -1,0 +1,9 @@
+# How mRNA Vaccines Work
+
+Your cells are constantly reading instructions. DNA in the nucleus gets copied into messenger RNA, which travels out to the cell's protein-making machinery and says, in effect, "build this." mRNA vaccines hijack that ordinary process for a specific purpose.
+
+The vaccine contains a strand of lab-made mRNA wrapped in a tiny bubble of fat, called a lipid nanoparticle. The fat coating matters. Naked mRNA would fall apart in seconds and never get inside a cell. The bubble protects it and helps it slip through the cell membrane after injection.
+
+Once inside, the mRNA delivers its message: build the spike protein from SARS-CoV-2 (or whichever pathogen the vaccine targets). Your cells produce that single protein and display pieces of it on their surface. The immune system notices, decides it looks foreign, and starts manufacturing antibodies and training T-cells to recognize it. If the real virus shows up later, your body already knows what to do.
+
+A few things worth knowing. The mRNA never enters the nucleus and cannot alter your DNA. It degrades within days. What lasts is the immune memory your body built while the instructions were briefly available.

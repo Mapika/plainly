@@ -1,0 +1,13 @@
+## How to Back Up Your Photos Safely
+
+Backing up your photos protects them from phone loss, computer failure, accidental deletion, or theft. A good rule is the **3-2-1 backup method**: keep **three copies** of your photos, on **two different types of storage**, with **one copy stored off-site**.
+
+First, gather your photos from your phone, camera, and computer into one organized folder. Sort them by year, event, or month so they are easy to find later.
+
+Next, make a local backup. Copy your photo folder to an **external hard drive** or SSD. After copying, open a few files to make sure the backup worked. Keep this drive somewhere safe, and update it regularly.
+
+Then, create a cloud backup using a trusted service such as Google Photos, iCloud, OneDrive, Dropbox, or another secure provider. Turn on automatic photo uploads so new pictures are backed up without you needing to remember.
+
+For extra safety, keep another backup away from home, such as a second external drive stored at a relative’s house or in a safe location. This helps protect against fire, flood, or theft.
+
+Finally, check your backups every few months. Make sure files still open, cloud syncing is working, and your storage isn’t full. A backup is only useful if it is current and accessible.

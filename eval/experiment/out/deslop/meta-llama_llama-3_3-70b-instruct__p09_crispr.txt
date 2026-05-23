@@ -1,0 +1,5 @@
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a gene editing tool that lets scientists alter the DNA of living organisms with remarkable precision. The system is adapted from a natural defense mechanism in bacteria, which uses a small RNA molecule to locate and cut specific DNA sequences.
+
+The process works in stages. A guide RNA is programmed to recognize a particular DNA sequence, then introduced into a cell, where it binds to its target. The enzyme Cas9 follows, cutting the DNA at that location and creating a double-stranded break. The cell responds by attempting to repair the damage.
+
+Scientists exploit this repair process by supplying a template that carries the desired genetic change, steering the cell toward a specific edit rather than a random patch. This makes it possible to correct disease-causing mutations, introduce new traits into an organism, or build therapies that were previously out of reach. Medicine, agriculture, and biotechnology have all been reshaped by what the technique makes possible.

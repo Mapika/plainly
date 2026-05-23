@@ -1,0 +1,12 @@
+# CRISPR Gene Editing: A Brief Explainer
+
+CRISPR (Clustered Regularly Interspaced Short Palindromic Repeats) is a gene-editing technology that allows scientists to modify DNA in living organisms with precision. Originally discovered as part of a bacterial immune system, it has been adapted into a tool for editing genes in plants, animals, and humans.
+
+The most common version, **CRISPR-Cas9**, works like molecular scissors guided by GPS. It has two key components:
+
+1. **A guide RNA**, designed to match a specific DNA sequence in the genome.
+2. **The Cas9 enzyme**, which does the cutting.
+
+The guide RNA leads Cas9 to the exact location in the DNA targeted for editing. Cas9 then cuts both strands at that spot. When the cell repairs the break, scientists can disable a faulty gene, correct a mutation, or insert new DNA.
+
+CRISPR is faster, cheaper, and more accurate than previous gene-editing methods. It shows real promise for treating genetic diseases like sickle cell anemia and developing disease-resistant crops, though it raises difficult ethical questions about how far we should go in editing life itself.

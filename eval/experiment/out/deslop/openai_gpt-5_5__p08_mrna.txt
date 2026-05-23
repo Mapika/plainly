@@ -1,0 +1,7 @@
+mRNA vaccines give your cells temporary instructions for making a harmless piece of a pathogen—usually a protein the immune system can recognize. The mRNA is packaged in tiny fat-like particles called lipid nanoparticles, which protect it and help it enter cells after injection.
+
+Once inside the cytoplasm, ribosomes read the mRNA and produce the target protein—the spike protein, in the case of some COVID-19 vaccines. This protein cannot cause disease, but it signals the immune system that something foreign is present.
+
+The immune system then mounts a response. B cells learn to recognize the protein and produce antibodies. T cells help coordinate the response and can destroy infected cells if the real pathogen appears later. Some of these cells become memory cells, enabling a faster, stronger response to future exposure.
+
+The mRNA never enters the nucleus and cannot alter DNA. It breaks down within days. What remains is immune memory.

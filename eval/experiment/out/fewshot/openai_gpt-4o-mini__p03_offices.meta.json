@@ -1,0 +1,29 @@
+{
+  "model": "openai/gpt-4o-mini",
+  "prompt_id": "p03_offices",
+  "condition": "fewshot",
+  "usage": {
+    "prompt_tokens": 328,
+    "completion_tokens": 242,
+    "total_tokens": 570,
+    "cost": 0.0001944,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "cache_write_tokens": 0,
+      "audio_tokens": 0,
+      "video_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.0001944,
+      "upstream_inference_prompt_cost": 4.92e-05,
+      "upstream_inference_completions_cost": 0.0001452
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "image_tokens": 0,
+      "audio_tokens": 0
+    }
+  },
+  "raw_model": "openai/gpt-4o-mini"
+}

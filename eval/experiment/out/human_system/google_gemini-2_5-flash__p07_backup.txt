@@ -1,0 +1,9 @@
+Your photos are irreplaceable. Family vacations, milestones, everyday moments – they’re all stored on your phone or camera, vulnerable to loss. A simple accident, a stolen device, or even just a software glitch can erase years of memories in an instant. Protecting them isn't hard, but it requires a few deliberate steps.
+
+First, identify your primary storage. Is it your phone's internal memory, an SD card, or a hard drive? Once you know where your photos live, you can start backing them up.
+
+The simplest method is cloud storage. Services like Google Photos, Apple iCloud, or Dropbox offer automatic uploads. Set it and forget it. Your photos will sync as you take them, or whenever you connect to Wi-Fi. This provides an off-site copy, meaning even if your house burns down, your pictures are safe.
+
+For an extra layer of security, consider a physical backup. An external hard drive is a good choice. Connect it to your computer, drag and drop your photo folders, and then disconnect it. Store it somewhere safe, separate from your main computer. Do this once a month, or after any significant photo-taking event.
+
+Don't rely on just one method. A combination of cloud storage and an external hard drive gives you redundancy. This "3-2-1 rule" – three copies of your data, on two different types of media, with one copy off-site – is the gold standard for data protection. It might seem like overkill, but when those precious memories are at stake, it’s worth the effort.

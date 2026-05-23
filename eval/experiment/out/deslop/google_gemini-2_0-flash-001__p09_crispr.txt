@@ -1,0 +1,7 @@
+CRISPR—Clustered Regularly Interspaced Short Palindromic Repeats—is a gene editing technology that lets scientists alter DNA sequences in living organisms with precision. Think of it as molecular scissors paired with a GPS for genes.
+
+The system has two key components: the Cas9 enzyme and a guide RNA (gRNA). The gRNA is a short RNA sequence designed to match a specific target in the genome. It directs Cas9 to the right location, where Cas9 then cuts through both strands of the DNA double helix. The cell detects this break and moves to repair it.
+
+Repair can happen in two ways. In non-homologous end joining (NHEJ), the cell stitches the ends back together sloppily, often introducing small insertions or deletions that disable the gene. In homology-directed repair (HDR), scientists supply a template DNA sequence alongside CRISPR, and the cell uses that template as a guide—allowing researchers to insert a new gene or correct an existing mutation.
+
+CRISPR has clear applications in treating genetic diseases and developing new therapies, and it has already reshaped how biologists study gene function. Its use also raises serious ethical questions that researchers, policymakers, and the public continue to debate.

@@ -1,0 +1,7 @@
+mRNA vaccines teach our bodies to fight off viruses. Here's how: they deliver a genetic blueprint, called messenger RNA (mRNA), into our cells. This particular mRNA carries instructions for making a harmless piece of the virus, often a "spike protein" found on its surface.
+
+Once inside our cells, the mRNA acts like a recipe. Our cellular machinery reads these instructions and starts producing many copies of that spike protein. It's important to remember that this protein alone cannot cause illness; it's just a fragment.
+
+Our immune system then spots these foreign spike proteins. It recognizes them as invaders, even though they're harmless, and mounts a defense. This involves creating antibodies and specialized immune cells that remember how to neutralize the spike protein.
+
+Later, if we encounter the actual virus, our immune system already knows what to do. It quickly recognizes the spike protein on the real virus and launches a swift, effective attack, preventing us from getting sick or reducing the severity of the illness. The mRNA itself is temporary; it degrades naturally within a few days, having done its job.

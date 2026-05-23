@@ -1,0 +1,34 @@
+[judge] Using judge model: anthropic/claude-opus-4.6
+[judge] Already judged: 260 pairs
+[judge] Account usage at start: $117.8005
+[judge] meta-llama/llama-3.1-8b-instruct              p07_backup vs deslop ... A → intervention
+[judge] meta-llama/llama-3.1-8b-instruct              p08_mrna vs human_system ... B → intervention
+[judge] meta-llama/llama-3.1-8b-instruct              p08_mrna vs fewshot ... B → intervention
+[judge] meta-llama/llama-3.1-8b-instruct              p08_mrna vs deslop ... B → intervention
+[judge] meta-llama/llama-3.1-8b-instruct              p09_crispr vs human_system ... A → intervention
+[judge] meta-llama/llama-3.1-8b-instruct              p09_crispr vs fewshot ... A → intervention
+[judge] meta-llama/llama-3.1-8b-instruct              p09_crispr vs deslop ... A → intervention
+[judge] meta-llama/llama-3.1-8b-instruct              p10_silkroad vs human_system ... B → intervention
+[judge] meta-llama/llama-3.1-8b-instruct              p10_silkroad vs fewshot ... B → intervention
+[judge] meta-llama/llama-3.1-8b-instruct              p10_silkroad vs deslop ... B → intervention
+[judge] google/gemini-2.0-flash-001                   p01_books vs human_system ... B → intervention
+[judge] google/gemini-2.0-flash-001                   p01_books vs fewshot ... A → intervention
+[judge] google/gemini-2.0-flash-001                   p01_books vs deslop ... B → intervention
+[judge] google/gemini-2.0-flash-001                   p02_walk vs human_system ... B → intervention
+[judge] google/gemini-2.0-flash-001                   p02_walk vs fewshot ... A → intervention
+[judge] google/gemini-2.0-flash-001                   p02_walk vs deslop ... A → intervention
+[judge] google/gemini-2.0-flash-001                   p03_offices vs human_system ... B → intervention
+[judge] google/gemini-2.0-flash-001                   p03_offices vs fewshot ... A → intervention
+[judge] google/gemini-2.0-flash-001                   p03_offices vs deslop ... A → intervention
+[judge] google/gemini-2.0-flash-001                   p04_headphones vs human_system ... B → intervention
+[judge] google/gemini-2.0-flash-001                   p04_headphones vs fewshot ... A → intervention
+[judge] google/gemini-2.0-flash-001                   p04_headphones vs deslop ... A → intervention
+[judge] google/gemini-2.0-flash-001                   p05_mealkit vs human_system ... B → intervention
+[judge] google/gemini-2.0-flash-001                   p05_mealkit vs fewshot ... A → baseline
+[judge] google/gemini-2.0-flash-001                   p05_mealkit vs deslop ... A → intervention
+[judge] google/gemini-2.0-flash-001                   p06_compost vs human_system ... B → intervention
+[judge] google/gemini-2.0-flash-001                   p06_compost vs fewshot ... B → intervention
+[judge] google/gemini-2.0-flash-001                   p06_compost vs deslop ... B → intervention
+[judge] google/gemini-2.0-flash-001                   p07_backup vs human_system ... A → intervention
+[judge] google/gemini-2.0-flash-001                   p07_backup vs fewshot ... A → intervention
+[judge] google/gemini-2.0-flash-001                   p07_backup vs deslop ... 

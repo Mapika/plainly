@@ -1,0 +1,5 @@
+mRNA vaccines work by using the body's own cellular machinery rather than introducing weakened or inactivated pathogens. Instead, they contain a synthetic messenger RNA molecule carrying instructions for making a specific protein.
+
+Once injected, the mRNA enters cells and directs them to produce a target protein—typically a harmless fragment of the virus, such as the spike protein of SARS-CoV-2. Cells display this protein on their surface, prompting the immune system to generate antibodies and activate T-cells. The immune system then retains a memory of this response, so if the actual virus later enters the body, it can neutralize the threat quickly.
+
+The mRNA breaks down rapidly and leaves no trace. It does not interact with or alter DNA. Because the genetic sequence of a target protein can be identified and synthesized in weeks, this platform allows vaccines to be designed and manufactured far faster than conventional methods—a meaningful advantage when responding to emerging infectious diseases.

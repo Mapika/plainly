@@ -1,0 +1,7 @@
+Our cells are constantly receiving and following instructions written in a molecule called messenger RNA, or mRNA. It’s a temporary blueprint that tells the cell’s machinery which proteins to build. mRNA vaccines use this natural process, but they provide a very specific set of instructions.
+
+Scientists create a synthetic mRNA blueprint that tells our cells how to make just one piece of the virus—a harmless, distinctive protein called a spike. This mRNA is packaged inside a tiny, protective fat bubble. When the vaccine is injected, our muscle cells take up these bubbles and read the instructions. The cells then briefly produce the viral spike protein on their surfaces.
+
+Our immune system is always on patrol. It recognizes these harmless spikes as foreign intruders. It mounts a powerful defense, creating antibodies and activating immune cells specifically designed to attack that exact spike protein. After a short time, the mRNA blueprint is destroyed by the cell, just as all mRNA is. But the immune system’s memory remains.
+
+If the real virus ever invades, the body is prepared. The immune system already has the precise tools to quickly recognize the spike protein, neutralize the virus, and prevent serious illness. It’s like giving the body a wanted poster instead of a weakened criminal to catch.

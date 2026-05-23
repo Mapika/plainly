@@ -1,0 +1,25 @@
+How to Back Up Your Photos Safely
+
+Losing irreplaceable photos to a dead hard drive or stolen phone is more common than most people expect. Here's how to protect them.
+
+**Use Multiple Storage Methods**
+
+Keep at least three copies of your photos: the originals on your device, a cloud backup, and a physical backup on an external drive. If one fails, you still have two others.
+
+**Cloud Storage**
+
+Google Photos, iCloud, Dropbox, and Amazon Photos are all solid options. Google Photos offers free storage up to a limit; Amazon Photos gives unlimited photo storage to Prime members. Enable automatic uploads on your phone and computer so backups happen without you thinking about it.
+
+**External Hard Drive**
+
+Buy a drive with at least 1–2 terabytes of space. Connect it regularly and run full backups, or use software like Time Machine or Backblaze to sync automatically. Keep the drive somewhere cool and dry, away from direct sunlight or heat sources. A second drive stored in a different location adds another layer of protection.
+
+**Stay Organized**
+
+Use a consistent file naming system and cull duplicates periodically. Bloated, disorganized libraries are harder to back up and restore.
+
+**A Few More Things**
+
+Actually open your backups occasionally and confirm the files are there and readable. Update your backup software when prompted. For truly irreplaceable photos—old family prints, for example—a professional archiving service is worth considering.
+
+Follow these steps and a single point of failure won't cost you your photos.

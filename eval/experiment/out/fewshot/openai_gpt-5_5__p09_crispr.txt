@@ -1,0 +1,7 @@
+CRISPR is a way of editing DNA, the instruction book inside living cells. Its name comes from a natural defense system used by bacteria, which keep little mugshots of viruses they have met before. If the virus returns, the bacteria use those stored genetic snippets to recognize and cut it apart.
+
+Scientists have borrowed this trick. The main tool is usually a protein called Cas9, which acts rather like a pair of molecular scissors. To tell Cas9 where to cut, researchers give it a short piece of guide RNA. This guide is designed to match a chosen stretch of DNA in the cell. When the guide finds its match, Cas9 makes a cut in the DNA.
+
+What happens next is the important part. Cells do not like broken DNA, so they rush to repair it. Sometimes the repair is messy, knocking out a gene so it no longer works. Other times, scientists provide a corrected piece of DNA, and the cell can use it as a template, patching in a desired change.
+
+This makes CRISPR powerful because it is relatively cheap, precise, and easy to adapt. It can help researchers study disease, improve crops, and may treat genetic disorders. But it also raises serious questions, especially when changes could be inherited by future generations.

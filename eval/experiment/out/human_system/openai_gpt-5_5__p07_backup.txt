@@ -1,0 +1,11 @@
+Start with the 3-2-1 rule: keep three copies of your photos, on two different kinds of storage, with one copy off-site. This protects you from a stolen laptop, a dead hard drive, or a cloud account problem.
+
+First, gather your photos in one main place. On a computer, create a folder called “Photos” and sort by year and month if you can. Copy in pictures from your phone, camera cards, old laptops, and messaging apps.
+
+Next, turn on cloud backup. Good options include iCloud Photos, Google Photos, OneDrive, or Amazon Photos. Check the settings carefully. You want full-resolution backup, not a smaller “storage saver” copy if image quality matters to you.
+
+Then make a local backup. Buy an external hard drive or SSD with more space than you currently need. Once a week, plug it in and copy your photo folder to it, or use built-in backup software like Time Machine on Mac or File History on Windows.
+
+Keep another copy away from your home. This can be a second drive stored at a trusted relative’s house or a cloud backup service.
+
+Finally, test your backups. Open a few old photos from each place. A backup you never check is a guess.

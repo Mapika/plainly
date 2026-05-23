@@ -1,0 +1,7 @@
+Imagine our DNA as a really long, complicated instruction manual for building and running a human being. Sometimes, there are typos in that manual – genetic mutations – that can lead to diseases. CRISPR is like a super-precise word processor that lets scientists find and correct those typos.
+
+Here's how it works: scientists create a "guide RNA," which is a short snippet of genetic code designed to match the specific typo they want to fix. This guide RNA is attached to an enzyme called Cas9, which acts like molecular scissors.
+
+The guide RNA leads Cas9 to the exact location of the typo in the DNA. Cas9 then snips the DNA at that spot. The cell's natural repair mechanisms kick in to fix the break. Scientists can then provide a corrected version of the gene, acting as a template for the repair, essentially rewriting the DNA at that location.
+
+Think of it like editing a sentence in a document. You find the error, cut it out, and then paste in the correct version. CRISPR is revolutionizing medicine because it offers the potential to treat, and even cure, genetic diseases by directly editing the source code of life.

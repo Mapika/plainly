@@ -1,0 +1,7 @@
+CRISPR is a gene-editing tool that lets scientists make targeted changes to DNA, the instruction code inside living cells. The name comes from a natural defense system found in bacteria. Bacteria use CRISPR to recognize and cut genetic material from viruses that attack them. Researchers adapted that system into a tool for editing genes.
+
+The best-known version uses two main parts: a guide RNA and a cutting protein, often Cas9. The guide RNA is designed to match a specific stretch of DNA. It leads Cas9 to that exact location in the genome, much like a search term finds a phrase in a long document. When Cas9 gets there, it cuts both strands of DNA.
+
+The cell then tries to repair the break. That repair step is where editing happens. If scientists want to disable a gene, they can let the cell patch the cut imperfectly, which often disrupts the gene. If they want to change a sequence, they can sometimes provide a DNA template for the cell to copy during repair.
+
+CRISPR is powerful because it is relatively cheap, fast, and precise compared with older gene-editing methods. It is used in research, crop breeding, and experimental treatments for genetic diseases. But precision is not perfect, and editing embryos or inherited DNA raises serious ethical questions.

@@ -1,0 +1,7 @@
+Here's an explainer on CRISPR gene editing in a similarly human style:
+
+CRISPR gene editing is like trying to cut a particularly knotty piece of twine. You need a pair of scissors, but not just any scissors - you need a pair that can snip through the thickest, most stubborn strands with precision and ease. That's basically what CRISPR does, but instead of scissors, it uses a molecular tool called an enzyme. This enzyme, called Cas9, is like a molecular ninja, slicing through the DNA double helix with surgical accuracy.
+
+Here's how it works: first, you need to identify the specific spot in the DNA where you want to make the cut. It's like finding a specific page in a very long book. Then, you send in the Cas9 enzyme, which is like a molecular scout, to locate the target sequence and make the cut. The enzyme is guided by a piece of RNA, which is like a molecular map, that shows it exactly where to go.
+
+Once the cut is made, the cell's natural repair machinery kicks in, and it tries to mend the break by stitching the DNA back together. But here's the clever part: you can provide a template for the cell to use, which is like giving it a blueprint for the repair. This allows you to insert new genetic material, essentially rewriting the cell's instructions. It's a powerful tool that's revolutionizing the field of genetics, and it's being used to treat everything from sickle cell anemia to cancer.

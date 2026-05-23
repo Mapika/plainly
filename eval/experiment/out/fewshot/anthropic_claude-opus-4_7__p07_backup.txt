@@ -1,0 +1,11 @@
+## How to Back Up Your Photos Without Losing Sleep
+
+The rule is simple, and people have been repeating it for years because it works: three copies, two different kinds of storage, one of them somewhere else. Memorize that and you've already done the hard part.
+
+Start with what's on your phone or camera. Pull the photos onto your computer—don't just leave them floating in the cloud and call it a day, because cloud accounts get locked, hacked, or quietly deleted when you forget to pay. That's copy number one.
+
+Now buy an external hard drive. They're cheap, and a decent one will hold every picture you've ever taken with room to spare. Plug it in once a month, drag your photo folder onto it, unplug it, put it in a drawer. That's copy number two.
+
+For copy number three, pick a cloud service you trust—Google Photos, iCloud, Backblaze, whatever you'll actually keep paying for—and let it run in the background. This is your insurance against the house burning down with the hard drive in it.
+
+Then, and this is the part everyone skips: every six months or so, open a few old photos and make sure they still work. A backup you've never tested isn't really a backup.

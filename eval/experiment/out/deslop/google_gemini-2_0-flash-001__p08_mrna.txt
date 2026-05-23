@@ -1,0 +1,7 @@
+mRNA vaccines work differently from traditional vaccines, which introduce weakened or inactive viruses. Instead, they deliver genetic instructions—messenger RNA—that prompt your cells to produce a harmless piece of the virus, typically a spike protein found on its surface.
+
+Think of mRNA as a recipe delivered to your cellular kitchen. Once injected, your muscle cells take up the mRNA and use it as a template to temporarily manufacture the spike protein. Your immune system recognizes this protein as foreign, produces antibodies, and activates immune cells that can remember and fight the real virus if you encounter it later.
+
+The mRNA doesn't integrate into your DNA and breaks down quickly. It acts as a temporary messenger, nothing more. The spike protein it generates doesn't cause disease—it's just enough to trigger an immune response. Because the mRNA sequence can be rapidly adapted to new variants, this approach also speeds up vaccine development considerably.
+
+In short, mRNA vaccines train your immune system to recognize a virus without ever exposing you to it.

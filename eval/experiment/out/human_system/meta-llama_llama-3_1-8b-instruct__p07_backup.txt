@@ -1,0 +1,5 @@
+To back up your photos safely, start by sorting them into folders by date or event. This will make it easier to identify and retrieve specific photos later. Choose a backup location that's separate from your primary storage device – a USB drive or external hard drive is ideal.
+
+For the most robust backup, use a 3-2-1 approach: three copies of your data, on two different types of media, with one copy stored offsite. This means keeping your original files on your computer, a second copy on an external drive, and a third copy in the cloud. Consider using a cloud service like Google Photos or iCloud, which can automatically upload new photos and provide access from anywhere.
+
+When using an external drive, be sure to verify the backup by checking that all files have been copied correctly. This is especially important if you're using a USB drive, as they can be prone to data corruption. Finally, make it a habit to regularly review and update your backup to ensure it's up to date. Set a reminder to check your backup every few months, and update your cloud storage accordingly. This will give you peace of mind knowing your memories are safe.

@@ -1,0 +1,7 @@
+Here's the trick that makes mRNA vaccines so clever: they don't actually contain a virus, or even a piece of one. They contain instructions.
+
+Think of mRNA as a recipe card. Your cells are constantly reading such cards — your own DNA sends them out by the thousands every second, telling the cellular machinery what proteins to build. An mRNA vaccine slips in a card of its own. The recipe, in the case of the COVID vaccines, is for the spike protein that studs the surface of the coronavirus.
+
+Once injected, the mRNA is taken up by a few of your cells, which dutifully read the instructions and manufacture a batch of these spike proteins. The proteins themselves are harmless on their own — they're just a shape, a fragment, with no virus attached. But your immune system, ever paranoid, notices these unfamiliar shapes drifting around and mounts a response: antibodies, memory cells, the works. It learns the enemy's face before it ever meets the enemy.
+
+The mRNA itself, having done its job, breaks down within days. What remains is the immunological memory — and the next time the real virus shows up, your body recognizes it instantly and goes to war.

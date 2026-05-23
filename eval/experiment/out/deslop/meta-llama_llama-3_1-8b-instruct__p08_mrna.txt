@@ -1,0 +1,7 @@
+mRNA vaccines work by delivering a small piece of genetic code into your cells. A cellular structure called a ribosome reads that code and builds a specific protein, which appears on the cell's surface. Your immune system sees the protein as foreign and mounts a response.
+
+That response involves T-cells and B-cells, which attack the protein and, crucially, remember it. If the real pathogen enters your body later, your immune system can respond quickly rather than starting from scratch.
+
+One practical advantage of this approach is speed. Because scientists only need to identify the right protein target and encode it, mRNA vaccines can be designed and manufactured far faster than traditional vaccines, which often require growing weakened or inactivated pathogens in large quantities. The COVID-19 vaccines demonstrated this — functional candidates were ready for trials within weeks of the virus being sequenced.
+
+The platform is also flexible. The same basic delivery mechanism can be pointed at different targets, which is why researchers are now applying it to diseases beyond infectious illness, including certain cancers where the goal is to train the immune system to recognize and attack tumor cells.

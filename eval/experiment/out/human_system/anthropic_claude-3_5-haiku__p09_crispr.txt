@@ -1,0 +1,9 @@
+CRISPR is a revolutionary gene-editing tool that lets scientists precisely alter DNA like a text document's cut-and-paste function. It works by using a guide RNA to direct a specialized enzyme — typically Cas9 — to a specific genetic sequence.
+
+Think of CRISPR as molecular scissors. The guide RNA acts like a GPS, navigating the Cas9 enzyme to an exact location in the genome. Once there, Cas9 makes a clean break in the DNA strand. This cut triggers the cell's natural repair mechanisms, which scientists can manipulate in two key ways.
+
+One approach simply disables a gene by introducing errors during repair. Another method allows researchers to insert a new DNA segment, effectively rewriting genetic code. It's like being able to find and replace text in a manuscript, but with living genetic material.
+
+The technique emerged from studying bacterial immune systems. Bacteria use a similar method to defend against viral infections, cutting up invading viral DNA. Scientists realized they could adapt this natural defense mechanism as a precise gene-editing tool.
+
+CRISPR's potential is staggering. Researchers are exploring treatments for genetic diseases, developing more resilient crops, and even contemplating ways to modify human embryos. But ethical questions loom large: just because we can edit genes doesn't always mean we should.

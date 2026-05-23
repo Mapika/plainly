@@ -1,0 +1,16 @@
+**How to Back Up Your Photos Safely**
+
+A device failure, theft, or accident can wipe out years of photos in seconds. A solid backup habit prevents that.
+
+1. **Choose a Backup Method**: Pick an approach that fits how you work.
+	* External hard drive: Connect one to your computer and configure it to back up automatically.
+	* Cloud storage: Services like Google Photos, iCloud, or Dropbox store your photos offsite, so a house fire won't take them with everything else.
+	* USB drive: A simple option for manual transfers, though easy to neglect.
+
+2. **Select a Backup Location**: Your backup is only useful if it survives whatever destroyed the original. A separate computer, a fireproof safe, or an offsite cloud service all put distance between your photos and a single point of failure.
+
+3. **Set Up Automatic Backups**: Manual backups get skipped. Use software like Time Machine or Acronis True Image to run backups on a schedule — weekly is enough for most people, more often if you shoot frequently.
+
+4. **Verify Your Backups**: A backup you've never tested may not work when you need it. Open the backup occasionally and confirm the files are actually there and readable.
+
+Follow these steps and you won't have to find out the hard way that your only copy was on a failing drive.

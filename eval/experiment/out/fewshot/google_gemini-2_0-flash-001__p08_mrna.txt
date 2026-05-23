@@ -1,0 +1,9 @@
+Okay, here's an explainer of mRNA vaccines in a human style, aimed at an educated general audience:
+
+Imagine your body as a bustling factory, constantly churning out proteins – the building blocks and workhorses that keep everything running smoothly. Now, imagine scientists figured out a way to slip a little instruction manual right into the factory floor, one that tells the machinery how to build *one specific,* harmless piece of a bad guy – like a tiny, recognizable fragment of the COVID-19 virus.
+
+That’s essentially what an mRNA vaccine does. mRNA (messenger RNA) is like that instruction manual. It's a fragile little strand of genetic code that tells your cells how to make a specific protein. In this case, it's the "spike protein" found on the surface of the coronavirus.
+
+Once your cells briefly produce this harmless spike protein, your immune system says, "Hey, what's this?" and starts learning how to recognize and fight it. It develops antibodies and specialized immune cells that are ready to spring into action if they ever encounter the real virus.
+
+The mRNA itself is quickly broken down and disappears. It doesn't alter your DNA or hang around permanently. All that's left is a trained immune system, ready to defend you against a future infection. So, think of it as giving your body a sneak peek at the enemy, so it can prepare its defenses without ever having to face the real threat.

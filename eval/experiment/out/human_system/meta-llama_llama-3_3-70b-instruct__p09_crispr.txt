@@ -1,0 +1,5 @@
+CRISPR gene editing is a precise way to alter the DNA of living things. It's based on a defense system that bacteria use to fend off viruses. Here's how it works: scientists program a small piece of RNA to find a specific sequence of DNA in a cell. This RNA, called a guide, is like a molecular GPS. It locates the target sequence and unlocks it, allowing an enzyme called Cas9 to make a cut in the DNA.
+
+When the cell tries to repair this cut, scientists can introduce changes to the DNA sequence. This can be as simple as fixing a typo in the genetic code or as complex as adding a new gene. The cell then incorporates these changes into its genome, effectively editing its own DNA. The result is a cell with a new genetic trait. 
+
+This technique has been used to edit the genes of plants, animals, and even human cells. It's opened up new possibilities for treating genetic diseases and improving crop yields. For example, scientists have used CRISPR to develop crops that are resistant to certain pests and diseases, reducing the need for pesticides. The precision of CRISPR makes it a powerful tool for making targeted changes to the genome.

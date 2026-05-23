@@ -1,0 +1,14 @@
+### How to Back Up Your Photos Safely
+
+Losing precious photos can be heartbreaking. To protect your memories, follow the "3-2-1 Backup Rule."
+
+**1. The 3-2-1 Rule Explained**
+This strategy means having **three** total copies of your data. Store them on **two** different types of media (e.g., your computer's hard drive and an external hard drive), with **one** copy kept off-site.
+
+**2. Create Your Local Backups**
+Start by transferring photos from your phone or camera to your computer. This is your first copy. Then, regularly back up that computer folder to an **external hard drive**. This is your second, separate copy, protecting you if your computer fails.
+
+**3. Add an Off-Site Backup**
+For crucial protection against theft, fire, or flood, use a **cloud storage service** like Google Photos, iCloud, or Dropbox. These services automatically sync your photos to secure remote servers, fulfilling the "off-site" requirement.
+
+**Final Tip:** Make backing up a habit. Schedule a monthly reminder to update your external hard drive and check that your cloud service is running smoothly. With this simple system, your photos will be secure for years to come.

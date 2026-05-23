@@ -1,0 +1,7 @@
+An mRNA vaccine is a set of instructions, not a miniature infection. It contains a short-lived molecule called messenger RNA, wrapped in a tiny fatty coat so it can slip into a few of our cells. The message tells those cells how to make one harmless piece of the virus—usually a surface protein, such as the spike protein of the coronavirus.
+
+The cell reads the message much as a cook reads a recipe, makes the protein, and then destroys the mRNA. The protein, however, is noticed by the immune system. To the body it looks like a suspicious badge from an enemy uniform. Immune cells inspect it, learn its shape, and begin making antibodies and training T cells that can recognize it again.
+
+If the real virus later appears, it is no longer a complete stranger. The immune system can respond faster and more strongly, often stopping infection early or reducing the severity of illness.
+
+The vaccine does not enter the cell’s nucleus, where DNA is kept, and it does not rewrite a person’s genes. Its message is temporary; the training it provokes is the lasting part. In that sense, an mRNA vaccine is less like giving the body a disease than handing it a wanted poster before the outlaw rides into town.

@@ -1,0 +1,11 @@
+mRNA Vaccines: Teaching Cells to Fight Back
+
+Traditional vaccines work by introducing a weakened or inactivated pathogen to trigger an immune response. mRNA vaccines take a more direct approach: they give cells instructions to produce a specific defensive protein.
+
+In an mRNA vaccine, genetic instructions (messenger RNA) are packaged inside a lipid nanoparticle. When injected, these particles enter cells and deliver a genetic blueprint to the cellular machinery, which then produces a harmless piece of the target virus—typically a surface protein.
+
+For COVID-19 vaccines, cells produce the coronavirus's spike protein. This protein can't cause infection, but it's recognizable enough to provoke an immune response. The immune system develops antibodies against it and creates memory B and T cells that can quickly identify and fight the actual virus if encountered later.
+
+The mRNA breaks down shortly after delivering its instructions, leaving no permanent genetic change. This approach also allows manufacturers to update vaccines for new variants far faster than traditional methods permit.
+
+The technology itself isn't new—researchers had been refining it for decades before COVID-19 became its first large-scale test.

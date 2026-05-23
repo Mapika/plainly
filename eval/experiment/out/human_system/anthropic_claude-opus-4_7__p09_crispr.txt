@@ -1,0 +1,9 @@
+## What CRISPR Actually Does
+
+CRISPR is a tool for cutting DNA at a specific spot. That's the whole trick. Once you've made the cut, the cell's own repair machinery kicks in, and you can use that moment to disable a gene or paste in a new sequence.
+
+The system has two parts. The first is a guide RNA, a short strand designed to match the DNA sequence you want to target — say, twenty letters long. The second is Cas9, a protein that acts like molecular scissors. The guide RNA leads Cas9 to the matching spot in the genome, and Cas9 snips both strands of the double helix.
+
+What happens next depends on what you want. If you just let the cell repair itself, it usually patches the cut sloppily, breaking whatever gene was there. That's how researchers knock out genes to see what they do. If you supply a template DNA sequence along with the cutting machinery, the cell can use it as a guide and incorporate new code at the cut site.
+
+Biologists borrowed all of this from bacteria, which evolved CRISPR as an immune system to chop up invading viruses. We just pointed it at our own genomes instead.

@@ -1,0 +1,5 @@
+Traditional vaccines introduce a weakened or dead virus to trigger an immune response. mRNA vaccines take a different tack. They deliver genetic instructions, in the form of messenger RNA (mRNA), that tell your cells how to build a harmless piece of the virus – typically a protein found on its surface.
+
+Think of mRNA as a temporary blueprint. Once inside your cells, the mRNA is used to create copies of that viral protein. Your immune system recognizes this protein as foreign and mounts an attack, producing antibodies and activating other immune cells. The mRNA itself is quickly broken down by the cell.
+
+The beauty of this approach is that you're not exposed to the actual virus, so you can't get sick from the vaccine. Instead, your body learns to recognize and fight off the virus if you encounter it in the future. Because mRNA vaccines are relatively easy to design and manufacture, they can be developed more quickly than traditional vaccines. This speed was crucial in responding to the COVID-19 pandemic.

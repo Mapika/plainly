@@ -1,0 +1,7 @@
+mRNA vaccines use a piece of genetic material called messenger RNA to instruct cells in the body to produce a specific protein. This protein triggers an immune response, teaching the body to recognize and fight a particular disease. 
+
+The process starts when the vaccine is injected into a muscle, typically in the arm. The mRNA is taken up by cells in the muscle, which then use it as a blueprint to build the desired protein. In the case of a COVID-19 vaccine, this protein is a piece of the virus's spike protein. 
+
+Once the protein is produced, it's displayed on the surface of the cell, where it's recognized by the immune system. The immune system sees this protein as foreign and mounts a response, producing antibodies and immune cells that can recognize and attack the actual virus if it enters the body. 
+
+This approach has several advantages. It allows for quick development and production of vaccines, as the mRNA can be easily synthesized and formulated into a vaccine. It also eliminates the need to use live or attenuated viruses, making the vaccine safer. The result is a powerful and targeted immune response that can provide long-lasting protection against disease.

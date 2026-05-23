@@ -1,0 +1,18 @@
+## Don't Lose a Moment: Safely Back Up Your Photos!
+
+Losing precious photos is a nightmare. Here's how to keep them safe.
+
+**1. The "Rule of Three":** Keep at least **three copies** of your photos — the original plus two backups stored separately.
+
+**2. Local Backup:**
+* **External Hard Drive:** Buy a reliable external hard drive, connect it to your computer, and drag your photo folders onto it weekly or monthly. Label it clearly.
+* **Computer Hard Drive:** Your computer holds the originals, but it's not a backup. If it dies, those photos go with it.
+
+**3. Cloud Backup:**
+* **Choose a Service:** Google Photos, iCloud, Dropbox, and OneDrive all offer free storage tiers with paid plans for larger libraries.
+* **Automatic Sync:** Most cloud services sync automatically from your phone or computer — turn this on and leave it running.
+* **Check Your Uploads:** Log in occasionally to confirm photos are actually uploading. Don't assume.
+
+**4. Review and Organize:** Before backing up, delete blurry shots and duplicates, then sort photos into labeled folders ("2023 Vacations," "Family Events"). You'll thank yourself the next time you need to find something.
+
+Follow these steps and you'll have a solid backup system that won't let you down.

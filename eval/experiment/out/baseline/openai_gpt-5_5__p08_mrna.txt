@@ -1,0 +1,7 @@
+mRNA vaccines work by giving your cells temporary instructions for making a harmless piece of a virus or other pathogen—usually a protein that the immune system can recognize. The mRNA, or messenger RNA, is packaged in tiny fat-like particles called lipid nanoparticles, which protect it and help it enter cells after injection.
+
+Once inside the cell’s cytoplasm, the mRNA is read by ribosomes, the same molecular machinery that normally makes proteins from the body’s own mRNA. The cell then produces the target protein, such as the spike protein used in some COVID-19 vaccines. This protein is not enough to cause disease, but it acts like a warning flag.
+
+The immune system detects the protein and responds in several ways. Antibody-producing B cells learn to recognize it, while T cells help coordinate the response and can destroy infected cells if they later encounter the real pathogen. Some of these immune cells become memory cells, allowing the body to react faster and more strongly in the future.
+
+The mRNA itself does not enter the nucleus, where DNA is stored, and it does not change a person’s genes. It is broken down naturally within a short time. The lasting effect is immune memory, not the mRNA.

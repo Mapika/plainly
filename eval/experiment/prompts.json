@@ -1,0 +1,12 @@
+[
+  {"id": "p01_books",     "register": "essay",        "prompt": "Write a short blog post (about 200 words) on why people should read more books."},
+  {"id": "p02_walk",      "register": "essay",        "prompt": "Write a short personal essay (about 200 words) about what a long walk can teach you."},
+  {"id": "p03_offices",   "register": "essay",        "prompt": "Write a short opinion piece (about 200 words) on whether open-plan offices are a good idea."},
+  {"id": "p04_headphones","register": "marketing",    "prompt": "Write a product description (about 150 words) for a new pair of wireless noise-cancelling headphones called the AuraPods Pro."},
+  {"id": "p05_mealkit",   "register": "marketing",    "prompt": "Write marketing copy (about 150 words) for a meal-kit delivery subscription called FreshCrate."},
+  {"id": "p06_compost",   "register": "howto",        "prompt": "Write a beginner's guide (about 200 words) to starting composting at home."},
+  {"id": "p07_backup",    "register": "howto",        "prompt": "Write a short how-to (about 200 words) explaining how to back up your photos safely."},
+  {"id": "p08_mrna",      "register": "scientific",   "prompt": "Write an explainer (about 200 words) of how mRNA vaccines work, for an educated general audience."},
+  {"id": "p09_crispr",    "register": "scientific",   "prompt": "Write an explainer (about 200 words) of what CRISPR gene editing is and how it works."},
+  {"id": "p10_silkroad",  "register": "encyclopedic", "prompt": "Write an overview (about 200 words) of the history and significance of the Silk Road."}
+]

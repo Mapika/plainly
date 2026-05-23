@@ -1,0 +1,9 @@
+# How mRNA Vaccines Work
+
+Traditional vaccines introduce a weakened or inactivated virus to train your immune system. mRNA vaccines take a different approach: instead of delivering the pathogen itself, they deliver instructions.
+
+Messenger RNA (mRNA) is a molecule your cells use every day to translate genetic information from DNA into proteins. mRNA vaccines harness this process. The vaccine contains a small piece of synthetic mRNA encoding a single, harmless protein from the target virus—for COVID-19 vaccines, this is the "spike" protein on the coronavirus's surface. The mRNA is wrapped in a tiny lipid bubble that protects it and helps it enter your cells.
+
+Once inside, your cells read the mRNA and temporarily produce the spike protein, displaying it on their surface. Your immune system recognizes this protein as foreign, generates antibodies, and trains immune cells to remember it. If you later encounter the actual virus, your body can attack it quickly.
+
+Critically, mRNA never enters the cell's nucleus and cannot alter your DNA. It degrades within days, leaving behind only the immune memory. This platform is also highly adaptable: once scientists identify a pathogen's genetic sequence, they can design a new vaccine in weeks rather than years.

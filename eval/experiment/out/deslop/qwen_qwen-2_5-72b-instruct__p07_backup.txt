@@ -1,0 +1,23 @@
+Backing up your photos is the only reliable way to avoid losing them permanently. Here's how to do it:
+
+1. **Choose Your Storage Solution**: Decide where you want to store your backups. External hard drives, cloud services like Google Photos or Dropbox, or both are all solid options.
+
+2. **Organize Your Photos**: Sort your photos into folders by date or event before backing up. This saves a lot of searching later.
+
+3. **Connect Your Device**: Plug your external hard drive into your computer and confirm your system recognizes it.
+
+4. **Copy Photos to External Storage**:
+   - **Manual Method**: Drag your photo folders from your computer onto the external drive.
+   - **Automated Method**: Use backup software instead. Windows and macOS both include built-in tools for this.
+
+5. **Upload to Cloud Storage**:
+   - **Sign Up**: Create an account with a cloud service.
+   - **Upload Photos**: Use the app or website to upload your folders. Most services can do this automatically.
+
+6. **Verify the Backup**: Open a few folders and spot-check some photos to confirm everything transferred correctly.
+
+7. **Secure Your Backup**: Keep your external drive somewhere safe—ideally not in the same building as your computer, in case of theft or a fire.
+
+8. **Update Regularly**: Set a monthly reminder, or back up after major events, so your archive stays current.
+
+Follow these steps and you won't have to worry about losing photos to a crashed hard drive or a lost phone.

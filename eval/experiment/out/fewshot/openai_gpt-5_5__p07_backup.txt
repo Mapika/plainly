@@ -1,0 +1,9 @@
+Backing up your photos is not glamorous work, but neither is discovering that ten years of birthdays, beaches, babies, dogs, and badly framed sunsets have vanished into the digital swamp.
+
+Start by gathering your photos in one sensible place: your phone, computer, camera card, and any old folders with names like “New Folder 7.” Put them into a main photo folder, sorted by year or event if you have the patience.
+
+Next, follow the old rule: keep three copies. One is the original. The second should live on an external hard drive or USB drive. Plug it in, copy the photo folder, then unplug it when finished. A backup drive that is always connected is only a backup until theft, fire, or one nasty mistake takes it too.
+
+The third copy should be somewhere else entirely. Use a cloud service such as iCloud, Google Photos, OneDrive, Dropbox, or another reputable provider. Turn on automatic photo backup on your phone, then check once in a while that it is actually working. Machines are obedient, not wise.
+
+Finally, test your backups. Open a few photos from each copy. Make sure they are really there. Do this every month or two, and your memories will be safer than most people’s.

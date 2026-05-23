@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" font-family="-apple-system,Segoe UI,Roboto,sans-serif" font-size="13">
+<rect width="720" height="360" fill="white"/>
+<text x="60" y="30" font-size="17" font-weight="700" fill="#0f172a">The same LinkedIn post, before and after I taught plainly marketing</text>
+<text x="60" y="52" fill="#64748b">plainly density (higher = more slop). A blind judge preferred the clean version 3 out of 3.</text>
+<line x1="60" y1="300" x2="680" y2="300" stroke="#cbd5e1"/>
+<rect x="132" y="298" width="70" height="2" rx="1" fill="#dc2626" opacity="0.45"/>
+<text x="167" y="292" text-anchor="middle" fill="#64748b" font-size="12">0.00</text>
+<text x="167" y="316" text-anchor="middle" fill="#475569" font-size="11">slop draft</text>
+<rect x="228" y="298" width="70" height="2" rx="1" fill="#16a34a" opacity="0.45"/>
+<text x="263" y="292" text-anchor="middle" fill="#64748b" font-size="12">0.00</text>
+<text x="263" y="316" text-anchor="middle" fill="#475569" font-size="11">written with skill</text>
+<text x="215" y="338" text-anchor="middle" fill="#0f172a" font-size="13" font-weight="600">Before v0.5</text>
+<rect x="442" y="105" width="70" height="195" rx="3" fill="#dc2626"/>
+<text x="477" y="99" text-anchor="middle" fill="#0f172a" font-size="13" font-weight="700">7.63</text>
+<text x="477" y="316" text-anchor="middle" fill="#475569" font-size="11">slop draft</text>
+<rect x="538" y="298" width="70" height="2" rx="1" fill="#16a34a" opacity="0.45"/>
+<text x="573" y="292" text-anchor="middle" fill="#64748b" font-size="12">0.00</text>
+<text x="573" y="316" text-anchor="middle" fill="#475569" font-size="11">written with skill</text>
+<text x="525" y="338" text-anchor="middle" fill="#0f172a" font-size="13" font-weight="600">After v0.5 (marketing-aware)</text>
+<text x="215" y="274" text-anchor="middle" fill="#94a3b8" font-size="11" font-style="italic">could not tell them apart</text>
+</svg>

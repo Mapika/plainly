@@ -1,0 +1,48 @@
+[finish 15:08:07] waiting for generate.py to complete...
+[finish 15:41:24] generation counts:
+  baseline: 99
+  human_system: 99
+  fewshot: 99
+  deslop: 99
+[finish] running score.py
+[score] Condition 'baseline': 99 files
+[score] Condition 'human_system': 99 files
+[score] Condition 'fewshot': 99 files
+[score] Condition 'deslop': 99 files
+
+[score] Scored 396 files, 0 errors
+[score] Written: /home/mapika/projects/writer/eval/experiment/scores.csv
+  score rc=0
+[finish] running judge.py
+[judge] Using judge model: google/gemini-2.5-pro
+[judge] Already judged: 0 pairs
+[judge] Account usage at start: $116.2171
+[judge] openai/gpt-5.5                                p01_books vs human_system ... Traceback (most recent call last):
+  File "/home/mapika/projects/writer/eval/experiment/judge.py", line 214, in <module>
+    main()
+  File "/home/mapika/projects/writer/eval/experiment/judge.py", line 165, in main
+    answer = result["text"].strip().upper()
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'strip'
+  judge rc=1
+[finish] running analyze.py
+[analyze] Human reference rows: 70
+[analyze] Written: /home/mapika/projects/writer/eval/docs/EXPERIMENT_RESULTS.md
+
+=== CATCH: Model ranking by mean density ===
+  1. Llama 3.3 70B                   density=2.472  AUC=0.877
+  2. GPT-4o mini                     density=2.281  AUC=0.946
+  3. Llama 3.1 8B                    density=1.840  AUC=0.784
+  4. Gemini 2.5 Flash                density=1.361  AUC=0.761
+  5. Qwen2.5 72B                     density=1.355  AUC=0.867
+
+=== IMPROVE: Judge win-rates ===
+  human_system    win-rate=N/A  Δdensity=-0.572  p=0.000
+  fewshot         win-rate=N/A  Δdensity=-0.557  p=0.000
+  deslop          win-rate=N/A  Δdensity=-0.804  p=0.000
+  analyze rc=0
+[finish 15:41:36] DONE
+  397 scores.csv
+wc: judgements.csv: No such file or directory
+  397 total
+-rw-r--r-- 1 mapika mapika 3627 May 23 15:41 ../docs/EXPERIMENT_RESULTS.md

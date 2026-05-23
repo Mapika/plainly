@@ -1,0 +1,7 @@
+mRNA vaccines, like those developed for COVID-19, use a small piece of genetic material called messenger RNA (mRNA) to teach our immune systems how to fight viruses. Unlike traditional vaccines, which often use weakened or inactive forms of a virus, mRNA vaccines don’t contain any live virus.
+
+When you receive an mRNA vaccine, it delivers a blueprint for a harmless piece of the virus called the spike protein, which is found on the surface of the coronavirus. Our cells take this mRNA and use it to make the spike protein. This process occurs in the cytoplasm of the cell, not in the nucleus, so it doesn’t alter our DNA.
+
+Once the spike protein is produced, it’s displayed on the surface of the cells. The immune system recognizes it as foreign and begins to mount a defense. It produces antibodies and trains immune cells to respond quickly if the actual virus enters the body later.
+
+After the protein is made, the mRNA from the vaccine breaks down and is eliminated by the cell. This method not only prepares the immune system but does so quickly, allowing for a rapid response if exposed to the real virus.

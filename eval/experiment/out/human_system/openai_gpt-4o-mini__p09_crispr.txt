@@ -1,0 +1,7 @@
+CRISPR gene editing is a revolutionary tool for modifying DNA in living organisms. At its core, CRISPR stands for Clustered Regularly Interspaced Short Palindromic Repeats. It was discovered in bacteria, where it serves as a defense mechanism against viruses. Scientists have adapted this natural system for precise editing in various organisms, including plants, animals, and humans.
+
+The process begins with a protein called Cas9, which acts like a pair of molecular scissors. Researchers design a small piece of RNA, known as guide RNA, that matches the DNA sequence they want to change. This guide RNA leads the Cas9 protein to the exact spot in the genome where the cut should occur.
+
+Once Cas9 reaches the target DNA, it cuts both strands. The cell’s natural repair mechanisms kick in to fix the break. During this repair process, scientists can introduce new genetic material or delete unwanted sequences. This allows for targeted modifications, whether it’s correcting genetic defects, enhancing traits, or even creating genetically modified organisms.
+
+The potential applications are vast, from agriculture to medicine, including the possibility of treating genetic disorders. However, ethical concerns and long-term effects remain topics of active discussion.

@@ -1,0 +1,9 @@
+# How to Back Up Your Photos So You Don't Lose Them
+
+The rule worth memorizing is 3-2-1: three copies of your photos, on two different types of storage, with one copy stored somewhere off-site. Hard drives die. Phones get stolen. Houses flood. One backup isn't a backup.
+
+Start with the originals on your phone or camera. That's copy one. For copy two, get an external hard drive — a 2TB drive runs about $60 — and drag your photo folders onto it every month or so. Label the drive with the date you last updated it. Don't trust your memory.
+
+For the off-site copy, pick a cloud service and pay for it. Google Photos, iCloud, Backblaze, and Amazon Photos all work. Free tiers fill up fast and tend to compress your images, so the few dollars a month buys you full-resolution storage and peace of mind.
+
+Once a year, actually open a few backed-up files and make sure they work. Corrupted backups are common and silent. If you shoot RAW or care about a specific event — a wedding, a trip — burn those folders to an archival M-Disc as well. Ugly insurance, but it lasts decades.

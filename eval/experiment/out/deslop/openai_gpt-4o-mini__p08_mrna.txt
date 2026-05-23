@@ -1,0 +1,7 @@
+mRNA vaccines work by delivering synthetic messenger RNA into the body's cells. That mRNA carries instructions for producing a viral protein — typically the spike protein on the surface of a virus like SARS-CoV-2. The cells read those instructions, produce the protein, and display it on their surfaces. The immune system recognizes it as foreign and mounts a response.
+
+Traditional vaccines usually contain weakened or inactivated virus. mRNA vaccines skip that entirely — no live virus is involved at any stage.
+
+Once the immune response is triggered, the body produces antibodies and activates T-cells. If the vaccinated person later encounters the actual virus, their immune system already knows how to respond. The mRNA itself doesn't reach the cell nucleus or interact with DNA; it stays in the cytoplasm and breaks down once the protein has been made.
+
+The technology proved its value during the COVID-19 pandemic and has since opened new possibilities for vaccines against other infectious diseases.

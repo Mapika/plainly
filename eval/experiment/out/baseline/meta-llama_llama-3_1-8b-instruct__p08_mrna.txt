@@ -1,0 +1,9 @@
+Here's an explainer on how mRNA vaccines work:
+
+mRNA (messenger RNA) vaccines are a relatively new technology that uses a piece of genetic material to instruct our cells to produce a specific protein, which in turn triggers an immune response. Here's how they work:
+
+When an mRNA vaccine is administered, it enters the cells of the body, where it is read by a cellular machinery called the ribosome. The ribosome translates the mRNA instructions into a specific protein, which is then displayed on the surface of the cell. This protein is the target of the immune response, and our immune system recognizes it as foreign.
+
+The immune system responds by sending out immune cells, such as T-cells and B-cells, to attack the protein. This process is called immune priming. The immune cells remember the protein and can recognize it if it enters the body again in the future, allowing for a rapid and effective response to infection.
+
+mRNA vaccines are particularly useful because they can be designed to target a wide range of diseases, including infectious diseases such as COVID-19, and even some types of cancer. They also have several advantages over traditional vaccines, including the ability to be rapidly manufactured and distributed, and the potential to provide long-term protection against disease.

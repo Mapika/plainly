@@ -1,0 +1,7 @@
+mRNA vaccines work by introducing a piece of genetic material called messenger RNA, or mRNA, into cells. This mRNA contains instructions for making a specific protein that's found on the surface of the SARS-CoV-2 virus. The cells read the mRNA and use it to build a piece of the virus, but not the whole thing. It's like a blueprint for a car, but instead of building the whole car, you're just making a specific part.
+
+The immune system recognizes the protein as foreign and mounts a response. It starts producing antibodies and activating immune cells that can recognize and attack the virus. This way, when the real virus comes along, the immune system is ready to defend against it.
+
+The mRNA is fragile and doesn't survive long outside the body, so it can't cause an infection. The vaccine is made up of tiny lipid nanoparticles that protect the mRNA and help it get into the cells. Once it's inside, the mRNA is broken down and the cells do their thing. The immune system remembers the protein for a long time, so even if the mRNA is gone, the immune response remains.
+
+The mRNA vaccine doesn't contain any live or inactivated virus, so it can't give you the disease. It's also not a traditional vaccine, which might contain weakened or killed pathogens. Instead, it's a tool that tells your cells what to do.
