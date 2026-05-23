@@ -1,0 +1,119 @@
+{
+  "version": "2026.05",
+  "patterns": [
+    {
+      "id": "antithesis-not-just",
+      "name": "\"not just X — it's Y\" antithesis",
+      "kind": "structural",
+      "regex": "(\\bisn'?t\\s+(just|only|merely)\\b)|(\\b(it|that)'?s\\s+not\\s+(just|only|merely|about)\\b)|(\\bnot\\s+(just|only|merely)\\b)|(\\bnot\\s+only\\b[^.\\n]{1,40}\\bbut\\b)",
+      "ignorecase": true,
+      "weight": 3,
+      "tier": "current",
+      "why": "Default antithesis tic; concedes a position nobody held to sound nuanced."
+    },
+    {
+      "id": "participle-tail",
+      "name": "trailing significance participle",
+      "kind": "structural",
+      "regex": ",\\s+(highlighting|underscoring|emphasizing|reflecting|showcasing|ensuring|cementing|fostering|contributing to|demonstrating|reinforcing)\\b",
+      "ignorecase": true,
+      "weight": 3,
+      "tier": "current",
+      "why": "Participle clause manufactures analysis while adding no information (2-5x human rate)."
+    },
+    {
+      "id": "tricolon",
+      "name": "rule-of-three list",
+      "kind": "structural",
+      "regex": "\\b\\w+,\\s+\\w+,\\s+and\\s+\\w+\\b",
+      "ignorecase": true,
+      "weight": 1,
+      "tier": "current",
+      "why": "Compulsive triads; flag only when clustered/regular."
+    },
+    {
+      "id": "formulaic-intro",
+      "name": "formulaic opener",
+      "kind": "structural",
+      "regex": "\\b(in today'?s (fast-paced|digital|modern)|in the (world|realm) of|at its core|when it comes to)\\b",
+      "ignorecase": true,
+      "weight": 2,
+      "tier": "current",
+      "why": "Stock article scaffolding."
+    },
+    {
+      "id": "bold-header-bullet",
+      "name": "inline bold-header bullet",
+      "kind": "structural",
+      "regex": "^\\s*[-*]\\s+\\*\\*[^*]+\\*\\*\\s*:",
+      "ignorecase": false,
+      "multiline": true,
+      "weight": 1,
+      "tier": "current",
+      "why": "Templated listicle formatting (markdown leakage)."
+    },
+    {
+      "id": "announcement-cliche",
+      "name": "announcement-post cliché",
+      "kind": "structural",
+      "regex": "\\b(thrilled|excited|delighted|honou?red|humbled|proud)\\s+to\\s+(announce|share|reveal)\\b|\\bhumbled\\s+and\\s+honou?red\\b|\\bcouldn'?t\\s+be\\s+more\\s+excited\\b|\\bthe\\s+best\\s+is\\s+yet\\s+to\\s+come\\b|\\bthis\\s+is\\s+just\\s+the\\s+beginning\\b|\\bstay\\s+tuned\\b|\\bwithout\\s+further\\s+ado\\b",
+      "ignorecase": true,
+      "weight": 2,
+      "tier": "current",
+      "register": "marketing",
+      "why": "Announcement-post boilerplate; hollow enthusiasm carrying no information."
+    },
+    {
+      "id": "puffery-significance",
+      "name": "puffery / significance phrase",
+      "kind": "structural",
+      "regex": "\\bplays?\\s+an?\\s+(pivotal|vital|crucial|key|significant|central|important)\\s+role\\b|\\brich\\s+tapestry\\b|\\bnestled\\s+in\\s+the\\s+heart\\s+of\\b|\\bleaves?\\s+an?\\s+indelible\\s+mark\\b",
+      "ignorecase": true,
+      "weight": 2,
+      "tier": "current",
+      "why": "Encyclopedic puffery; asserts importance without evidence (Wikipedia 'Signs of AI writing')."
+    },
+    {
+      "id": "emoji-measured",
+      "name": "ChatGPT-overused emoji",
+      "kind": "punctuation",
+      "regex": "[✅🧠🔹]",
+      "ignorecase": false,
+      "weight": 1,
+      "tier": "current",
+      "why": "Emoji ChatGPT inserts ~10x the human rate in prose (WaPo analysis of 330k messages)."
+    },
+    {
+      "id": "emoji-hype",
+      "name": "hype / marketing emoji",
+      "kind": "punctuation",
+      "regex": "[🚀✨🔥💡🎉🎯📈]",
+      "ignorecase": false,
+      "weight": 1,
+      "tier": "current",
+      "register": "marketing",
+      "why": "Startup/announcement emoji cliché; also common in genuine human social copy, so weighted low and damped outside marketing."
+    },
+    {
+      "id": "emoji-bullet",
+      "name": "emoji used as a list bullet",
+      "kind": "structural",
+      "regex": "^\\s*[✅🧠🔹🚀✨🔥💡🎉🎯📈👉]\\s+\\S",
+      "ignorecase": false,
+      "multiline": true,
+      "weight": 1,
+      "tier": "current",
+      "why": "Emoji as a bullet or section marker — an AI formatting tell regardless of which glyph."
+    },
+    {
+      "id": "em-dash",
+      "name": "em-dash (contextual, off by default)",
+      "kind": "punctuation",
+      "regex": "—|\\s--\\s",
+      "ignorecase": false,
+      "weight": 1,
+      "tier": "current",
+      "why": "Em-dash overuse is a weak, model-dependent tell with high false-positive risk; off by default, flagged only when you opt in via .plainly.toml."
+    }
+  ]
+}
