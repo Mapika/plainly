@@ -1,0 +1,19 @@
+{
+  "expectations": [
+    {
+      "text": "density lower than no-skill baseline (same prompt)",
+      "passed": false,
+      "evidence": "with_skill 0.0 vs baseline 0.0"
+    },
+    {
+      "text": "density in human range (<= 1.0)",
+      "passed": true,
+      "evidence": "with_skill density 0.0"
+    },
+    {
+      "text": "no padding (words <= baseline x 1.25)",
+      "passed": true,
+      "evidence": "with_skill 149w vs baseline 145w"
+    }
+  ]
+}

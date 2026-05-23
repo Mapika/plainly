@@ -1,0 +1,26 @@
+{
+  "skill_name": "writing-clean-prose",
+  "evals": [
+    {
+      "id": 0,
+      "name": "blog-intro",
+      "prompt": "Write a 150-word intro for a blog post about switching our team from Jira to Linear.",
+      "expected_output": "Concrete, varied-rhythm prose with low plainly density; no boosters, antithesis tics, or formulaic openers.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "name": "readme-why",
+      "prompt": "Write the 'Why this exists' section of a README for an open-source rate-limiter library.",
+      "expected_output": "Plain, concrete docs prose; low plainly density; no copula-avoidance or vague abstraction.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "name": "marketing-seriesa",
+      "prompt": "Write a 120-word LinkedIn post announcing our company's Series A funding round.",
+      "expected_output": "Human-sounding announcement; low plainly density despite the marketing register most prone to slop.",
+      "files": []
+    }
+  ]
+}
