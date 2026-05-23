@@ -1,0 +1,17 @@
+{
+  "description": "After Claude writes or edits a prose file, automatically flag it if it reads AI-generated, so Claude can offer to clean it — no manual command needed.",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 ${CLAUDE_PLUGIN_ROOT}/hooks/on_write.py",
+            "timeout": 15
+          }
+        ]
+      }
+    ]
+  }
+}

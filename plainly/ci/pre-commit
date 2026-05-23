@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+# plainly pre-commit hook: gate staged prose on style-smell density.
+# Install: copy to .git/hooks/pre-commit and `chmod +x`, or reference from pre-commit framework.
+set -euo pipefail
+
+PLUGIN_ROOT="${PLAINLY_ROOT:-$(git rev-parse --show-toplevel)/plainly}"
+THRESHOLD="${PLAINLY_FAIL_OVER:-4}"
+
+mapfile -t FILES < <(git diff --cached --name-only --diff-filter=ACM \
+  | grep -Ei '\.(md|markdown|txt|rst)$' || true)
+
+status=0
+for f in "${FILES[@]}"; do
+  [ -f "$f" ] || continue
+  if ! python "$PLUGIN_ROOT/scripts/prescan.py" "$f" --fail-over "$THRESHOLD" >/dev/null; then
+    echo "plainly: '$f' exceeds style-smell threshold ($THRESHOLD). Run /plainly check $f"
+    status=1
+  fi
+done
+exit $status

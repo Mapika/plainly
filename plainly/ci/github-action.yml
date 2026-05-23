@@ -1,0 +1,14 @@
+# Example GitHub Actions gate. Copy into .github/workflows/.
+name: plainly
+on: [pull_request]
+jobs:
+  prose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { fetch-depth: 0 }
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - name: Check changed prose
+        run: |
+          python plainly/scripts/prescan.py --diff --fail-over 4
