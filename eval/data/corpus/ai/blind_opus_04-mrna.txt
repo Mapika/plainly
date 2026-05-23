@@ -1,0 +1,9 @@
+# How mRNA Vaccines Actually Work
+
+For most of history, vaccines worked by introducing a weakened or inactivated version of a germ, training your immune system on a harmless preview of the real threat. mRNA vaccines take a cleverer route: instead of delivering the germ, they deliver instructions.
+
+To understand the trick, picture how your cells already operate. Your DNA is a master cookbook locked safely in the cell's nucleus. When a cell needs to build a protein, it doesn't haul out the whole cookbook; it copies a single recipe onto a messenger molecule called mRNA. That message travels to the cell's protein factories, which read it and assemble the protein. Once the job is done, the message is quickly broken down.
+
+An mRNA vaccine simply hands your cells a recipe of our choosing. In the case of COVID-19, that recipe is for the coronavirus's distinctive "spike" protein. Your cells read the instructions, build copies of the harmless spike, and display them on their surface. Your immune system spots these unfamiliar shapes, learns to recognize them, and builds antibodies and memory cells primed to respond.
+
+The mRNA itself never enters the nucleus and never alters your DNA. Within days, the instructions degrade, leaving behind only immunity, a precise, fast, and remarkably elegant defense.

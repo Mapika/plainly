@@ -1,0 +1,11 @@
+# How mRNA Vaccines Work
+
+Vaccines have always shared the same basic goal: show the immune system what a threat looks like before it arrives. What mRNA vaccines do differently is change the delivery method — and in doing so, they change how fast a vaccine can be made.
+
+Your cells already run on mRNA. Every day, the nucleus of each cell transcribes DNA into messenger RNA, which travels out into the cell and instructs molecular machines called ribosomes to build proteins. mRNA is, in this sense, a recipe: it specifies what to make, not the thing itself.
+
+An mRNA vaccine works by delivering a snippet of synthetic mRNA into your cells — in the case of COVID-19 vaccines, instructions for building the coronavirus spike protein. Your ribosomes read the recipe and produce spike proteins. Your immune system encounters these proteins, recognizes them as foreign, and mounts a response: generating antibodies and building immunological memory. Then the mRNA breaks down, typically within a few days, leaving nothing behind except a primed immune system.
+
+Because no live virus is involved, the approach is inherently safe in that respect. And because designing the mRNA sequence only requires knowing the genetic code of a target protein — not growing and culturing the virus itself — vaccines can be developed and manufactured far faster than with traditional methods.
+
+The technology is not new; researchers have been developing it for decades. The pandemic put it to its first large-scale test. It passed.
